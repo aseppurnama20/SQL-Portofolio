@@ -3,3 +3,5 @@ This repository contain my portfolio on generate SQL Query. Some of SQL Queries 
 # SQL Query List Description
 1. Trigger
    This trigger was built in Ibexperts, using firebird database. The trigger aimed to update the data in PURCHASEORDER
+2. DML
+  This query used for 
